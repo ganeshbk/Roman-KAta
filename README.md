@@ -1,10 +1,4 @@
-This is the "AddSubRomanNum example" from the Check tutorial.
 
-This demonstrates using Check along with one of two build systems:
-autotools and CMake.
-
-========================
-Autotools:
 
 You need the following programs installed on your system:
   -- Autoconf 2.59
@@ -89,4 +83,3 @@ To use the CMake example in another project, start with the following files:
    |--- tests
         |--- CMakeFiles.txt
 
-Please send bug reports to check-devel AT lists.sourceforge.net.
